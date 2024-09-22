@@ -93,7 +93,7 @@
             @endforeach
           </tbody>
         </table>
-        <span style="float:right">{{$users->links()}}</span>
+        
       </div>
     </div>
 </div>
